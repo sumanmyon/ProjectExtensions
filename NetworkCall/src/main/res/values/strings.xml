@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestApiCall</string>
+    <string name="Network_error">Network connection failed.</string>
+    <string name="Loading">Loading please wait...</string>
+</resources>

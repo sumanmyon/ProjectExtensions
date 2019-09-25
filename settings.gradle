@@ -1,2 +1,2 @@
-include ':app', ':mylibrary', ':debugger'
+include ':app', ':mylibrary', ':debugger', ':NetworkCall'
 rootProject.name='ProjectExtensions'
